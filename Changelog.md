@@ -9,5 +9,10 @@
 I wanted to be funny and honor active Players. This resulted into the good noodles board
 
 ### 19/04/21
-- Resized the images and noodle board for mobile users.
+- Resized the images and noodle board for mobile users
 - Edited the news article
+
+### 21/04/21
+- Edited the rules for the Event. This rules (F1 Event), will be used for future Events of the same type
+
+The rec-html-file will be used to display changes in the noodle board
