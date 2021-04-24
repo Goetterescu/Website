@@ -12,8 +12,8 @@ you can give a sidenote and similar about the media using h4. In this case it sh
 - h3: Title format for articles or important stuff
 
 ### Breakes
-<hr> should be used after every article. Right at the end. It also comes after the first describtion of a page (below the paragraph which comes after h2).
-<br> can be used if necessary. It is not being used after titles. After a title comes the paragraph and maybe another title. But no breake. 
+`<hr>` should be used after every article. Right at the end. It also comes after the first describtion of a page (below the paragraph which comes after h2).
+`<br>` can be used if necessary. It is not being used after titles. After a title comes the paragraph and maybe another title. But no breake. 
 It can be used to add some distance between a paragraph and a image. But not after a title and a image, or title and a table.
 
 ### Event pages
