@@ -21,3 +21,8 @@ The rec-html-file will be used to display changes in the noodle board
 I decided to upload new Event-pages to Github. I uploaded my website, including the Event-page to netlify and embedded snippets of codes which I hosted from here. 
 That's the way I did it till now. The current Event will be the last one to be launched this way. I want my Staff members to work on Events, so I have to give them full 
 control over the page. I will not do this with every page, only the Event-pages.
+
+### 26/04/21
+- Merged the to-do-list and the guide into the read me
+- Updated the News
+- About to handover some responsibility to my Staff
