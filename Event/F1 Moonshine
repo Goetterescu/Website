@@ -1,0 +1,77 @@
+<h2 style="text-align:center">Formula R | Moonshine Cup</h2>
+<p>This is a top-tier race. Fast and low cars going with high-speed around corners and every single wrong move can send you out.</p><hr>
+<h3>Index:</h3>
+<ul>
+<li><a href="#w1">Week one</a></li>
+<li><a href="#mr">Main rules</a></li>
+<li><a href="#av">Allowed vehicles</a></li>
+<li><a href="#gi">General information</a></li>
+<li><a href="#m">Moderators</a></li>
+<li><a href="#ai">Additional information</a></li>
+<li><a href="#cl">Cup Leaderboard</a></li>
+</ul>
+<hr><a name="w1"/>
+<h3>Week one:</h3>
+<p>The first race of the Championship will take place on the F1 Testtrack from 24th-25th of April. The racetrack itself makes driving 
+on that weekend really easy. Caution should be taken after the last corner. This is the place where new Players will drop and maybe even 
+spawn new vehicles. This situation can summon preventable crashes, but the Moderators can't always stop this from happening.</p>
+<h3>Leaderboard:</h3>
+<!-- Embeded Table -->
+<p w3-include-html="https://raw.githubusercontent.com/Goetterescu/Website/main/Event/F1/w1.html"></p> 
+<script>w3.includeHTML();</script>
+<h3>Qualifications:</h3>
+<!-- Embeded Table -->
+<p w3-include-html="https://raw.githubusercontent.com/Goetterescu/Website/main/Event/F1/q1.html"></p> 
+<script>w3.includeHTML();</script>
+<hr><a name="mr"/>
+<h3>Main rules:</h3>
+<!-- Embeded Rules -->
+<p w3-include-html="https://raw.githubusercontent.com/Goetterescu/Website/main/Event/F1/rules%20for%20F1%20Moonshine.html"></p> 
+<script>w3.includeHTML();</script>
+<hr>
+<a name="av"/>
+<h3>Allowed vehicles:</h3>
+<ul>
+<li><a href="https://forum.rigsofrods.org/resources/meanmachine-pack.261/">MeanMachine-Race</a></li>
+<li><a href="https://www.dropbox.com/sh/x0lsx1ezlci8wx3/AAAZg59c7KkgcQLssr5VmPKSa/Vehicles?dl=0&preview=Lotus_F1_70s.zip&subfolder_nav_tracking=1">
+Lotus 70 (any)</a></li>
+<li>Other Suggestions can be made on our Discord 
+or my <a href="https://forum.rigsofrods.org/members/trucker-gigi.8943/">Forum account</a></li>
+</ul>
+<hr>
+<a name="gi"/>
+<h3>General information:</h3>
+<p>///UNDER CONSTRUCTION///</p>
+<ul>
+<li>There will be one qualification round, which will send each Driver to a certain starting position</li>
+<li>Two races will be done<ul>
+<li>One race with three rounds and a single round race<ul>
+<li>The three round race will be available once for each Driver</li>
+<li>The single round race will be used as many times as requested by the Mods</li></ul></ul>
+<li>The average time of the best round of the three round race plus the best time from the single round races will go into the Leaderboard. 
+<a href="what.txt">Click here if that's confusing you</a></li>
+<li>The starting signal will be given by the Mods</li>
+<li>The times recorded by the server (which can be found on the RoR-Website) will be used for the Leaderboard</li>
+<li>Each Week will have two racing days: Saturday and Sunday. Both can be used for racing</li>
+<li>Ideas related to this Event can be discussed on our Discord</li>
+</ul>
+<hr>
+<a name="m"/>
+<h3>Moderators</h3>
+<p>Moderators should make themselves a note containing a table. This table should be used to write down every lap of each Player.<br>
+Moderators are also present to protect the Event against vandalism and such. Players are allowed to be banned instantly if they're not 
+listening to the Moderators. Players have to follow the Event rules and Moderators are there to enforce the rules. We want a nicely 
+organized and calm Event. This requires the Moderators of this server to be active and responsive.<br>Moderators are asked to send 
+the lap times to Trucker_Gigi, even if they can be "simply looked up on the website". All Staff is asked to respect other Players 
+and their role.</p>
+<hr>
+<a name="ai"/>
+<h3>Additional information:</h3>
+<p>The amount of races (weeks) is not determined yet. Stay tuned for more.</p>
+<hr>
+<a name="cl"/>
+<h3>Cup Leaderboard:</h3>
+<p>This table shows the <u>current</u> best Drivers. It will change with every weekend.</p>
+<!-- Embeded Leaderboard -->
+<p w3-include-html="https://raw.githubusercontent.com/Goetterescu/Website/main/Event/F1/final.html"></p> 
+<script>w3.includeHTML();</script>
