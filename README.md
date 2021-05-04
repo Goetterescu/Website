@@ -5,8 +5,6 @@
 The Website will contain links to codes on this page. This makes the Website more flexible and easier to maintain. Sudden changes of Rules and such will be simple to achive.
 You can find some general information and a guide in here. Our Discord server is a good source, if you want to stay up to date.
 
-## Contributors: https://github.com/Pixel-22
-
 
 
 # HTML structure guide
