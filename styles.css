@@ -119,9 +119,9 @@ padding: 5px;
 
 
 /* For Mobile */
-@media only screen and (max-width: 540px) {
+@media only screen and (max-width: 350px) {
     .menu {
-        height: 18%;
+        height: 23%;
 		width: 85%;
     }
 	.menutable {
@@ -136,12 +136,15 @@ padding: 5px;
 		font-size: 20px;
 	}
 	h3, th {
-		font-size: 12px;
+		font-size: 13px;
 		padding: 1px;
 	}
-	p, li, td, h4 {
-		font-size: 8px;
+	p, li, td {
+		font-size: 10px;
 		padding: 1px;
+	}
+	h4 {
+		font-size: 8px;
 	}
 	/* Noodle */
 	#board {			/* Table side left */
@@ -161,6 +164,18 @@ padding: 5px;
 		border: 5px solid #3B170B;
 	}
 }
+
+/* For larger Mobiles */
+@media only screen and (min-width: 350px) and (max-width: 540px) {
+	.menu {
+        height: 15%;
+		width: 85%;
+    }
+	.menutable {
+		height: 30%;
+		width: 100%;
+		padding: 1px;
+	}
 
 /* For Tablets */
 @media only screen and (min-width: 540px) and (max-width: 780px) {
