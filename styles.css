@@ -75,19 +75,6 @@ font-size: 25px;
 padding: 5px;
 border: 5px solid black;
 }
-.centerAuftl {
-padding: 5px;
-flex: 1;
-border: 5px solid black;
-margin: auto;
-width: 100%;
-height: 100%;
-}
-.floatcontainer {
-height: 300%;
-width: 100%;
-display: flex;
-}
 .menu {
 margin-left: auto;
 margin-right: auto;
@@ -108,9 +95,6 @@ margin-right: auto;
 #sub {
 background-color: gray;
 outline: 2px solid red;
-}
-img.factionicon {
-vertical-align: middle;
 }
 
 
@@ -133,6 +117,55 @@ font-size: 25px;
 border: 5px solid black;
 padding: 5px;
 }
-.badge {
-width:80px;
+
+
+/* For Mobile */
+@media only screen and (max-width: 540px) {
+    .menu {
+        height: 18%;
+		width: 85%;
+    }
+	.menutable {
+		height: 30%;
+		width: 10%;
+		padding: 1px;
+	}
+	h1, b1 {
+		font-size: 35px;
+	}
+	h2 {
+		font-size: 20px;
+	}
+	h3, th {
+		font-size: 12px;
+		padding: 1px;
+	}
+	p, li, td, h4 {
+		font-size: 8px;
+		padding: 1px;
+	}
+	/* Noodle */
+	#board {			/* Table side left */
+		font-size: 40px;
+		width: auto;
+		border: 5px solid white;
+		flex: 1;
+		margin: auto;
+	}
+	#board2 {			/* Table right side */
+		font-size: 40px;
+		width: auto;
+		border: 5px solid white;
+	}
+	.Board {
+		padding: 1px;
+		border: 5px solid #3B170B;
+	}
+}
+
+/* For Tablets */
+@media only screen and (min-width: 540px) and (max-width: 780px) {
+    .menu {
+        height: 38%;
+    }
 }
