@@ -29,7 +29,7 @@ font-size: 18px;
 .Board {
 padding: 5px;
 border: 20px solid #3B170B;
-background-image: url("noodle backboard.jpg");
+background-image: url("https://raw.githubusercontent.com/Goetterescu/Website/main/noodle%20backboard.jpg");
 width: auto;
 flex: 1;
 margin: auto;
