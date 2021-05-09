@@ -78,13 +78,13 @@ border: 5px solid black;
 margin-left: auto;
 margin-right: auto;
 width: 80%;
-height: 27%;
+height: auto;
 padding: 5px;
 border: 5px solid black;
 }
 .menutable {
 margin: auto;
-height: 80px;
+height: auto;
 }
 .center {
 display: block;
@@ -121,11 +121,9 @@ padding: 5px;
 /* For Mobile */
 @media only screen and (max-width: 350px) {
     .menu {
-        height: 23%;
 		width: 85%;
     }
 	.menutable {
-		height: 30%;
 		width: 10%;
 		padding: 1px;
 	}
@@ -168,11 +166,9 @@ padding: 5px;
 /* For larger Mobiles */
 @media only screen and (min-width: 350px) and (max-width: 540px) {
 	.menu {
-        height: 15%;
 		width: 85%;
     }
 	.menutable {
-		height: 30%;
 		width: 100%;
 		padding: 1px;
 	}
@@ -180,6 +176,5 @@ padding: 5px;
 /* For Tablets */
 @media only screen and (min-width: 540px) and (max-width: 780px) {
     .menu {
-        height: 38%;
     }
 }
