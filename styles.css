@@ -1,0 +1,171 @@
+body {
+background-color: lightblue;
+}
+h1 {
+text-align: center;
+color: red;
+text-decoration: underline;
+font-weight: bold;
+text-shadow: 2px 2px 5px black;
+font-size: 80px;
+}
+h2 {
+font-weight: bold;
+color: red;
+font-size: 50px;
+}
+h3 {
+font-weight: bold;
+color: red;
+font-size: 30px;
+}
+h4 {
+color: grey;
+font-size: 18px;
+}
+
+/* Used for the good noodles board */
+/* Main board */
+.Board {
+padding: 5px;
+border: 20px solid #3B170B;
+background-image: url("data/back.jpg");
+width: auto;
+flex: 1;
+margin: auto;
+}
+/* Table */
+#board {
+font-family: "Brush Script MT", cursive;
+font-weight: bold;
+color: white;
+font-size: 40px;
+background-color: transparent;
+border: 10px solid white;
+width: 520px;
+}
+/* left aligned text (stars) */
+#board2 {
+font-family: "Brush Script MT", cursive;
+font-weight: bold;
+color: white;
+font-size: 40px;
+background-color: transparent;
+border: 10px solid white;
+text-align: left;
+width: 80%;
+}
+/* END */
+
+/* Title */
+b1 {
+font-family: "Brush Script MT", cursive;
+font-weight: bold;
+color: white;
+font-size: 80px;
+text-align: center;
+display: block;
+}
+
+p, li {
+font-weight: bold;
+font-size: 25px;
+}
+.Auftl {
+padding: 5px;
+border: 5px solid black;
+}
+.menu {
+margin-left: auto;
+margin-right: auto;
+width: 80%;
+height: 27%;
+padding: 5px;
+border: 5px solid black;
+}
+.menutable {
+margin: auto;
+height: 80px;
+}
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+#sub {
+background-color: gray;
+outline: 2px solid red;
+}
+
+
+
+th {
+border: 5px solid black;
+padding: 5px;
+font-weight: bold;
+color: red;
+font-size: 30px;
+}
+table {
+text-align: center;
+background-color:#2ECCFA;
+border-collapse: collapse;
+}
+td {
+font-weight: bold;
+font-size: 25px;
+border: 5px solid black;
+padding: 5px;
+}
+
+
+/* For Mobile */
+@media only screen and (max-width: 540px) {
+    .menu {
+        height: 18%;
+		width: 85%;
+    }
+	.menutable {
+		height: 30%;
+		width: 10%;
+		padding: 1px;
+	}
+	h1, b1 {
+		font-size: 35px;
+	}
+	h2 {
+		font-size: 20px;
+	}
+	h3, th {
+		font-size: 12px;
+		padding: 1px;
+	}
+	p, li, td, h4 {
+		font-size: 8px;
+		padding: 1px;
+	}
+	/* Noodle */
+	#board {			/* Table side left */
+		font-size: 40px;
+		width: auto;
+		border: 5px solid white;
+		flex: 1;
+		margin: auto;
+	}
+	#board2 {			/* Table right side */
+		font-size: 40px;
+		width: auto;
+		border: 5px solid white;
+	}
+	.Board {
+		padding: 1px;
+		border: 5px solid #3B170B;
+	}
+}
+
+/* For Tablets */
+@media only screen and (min-width: 540px) and (max-width: 780px) {
+    .menu {
+        height: 38%;
+    }
+}
