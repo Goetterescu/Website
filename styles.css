@@ -165,6 +165,13 @@ padding: 5px;
 
 /* For larger Mobiles */
 @media only screen and (min-width: 350px) and (max-width: 540px) {
+	h3, th {
+		font-size: 10px;
+		padding: 1px;
+	}
+	
+	
+	
 	.menu {
 		width: 85%;
     }
