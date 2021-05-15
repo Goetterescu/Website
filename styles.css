@@ -194,7 +194,9 @@ padding: 5px;
 	
 	#board, #board2 {
 		font-size: 30px;
-		width: auto;
+	}
+	#board2 {
+		width: 100%;
 	}
 	
 	.menu {
