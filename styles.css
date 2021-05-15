@@ -134,7 +134,7 @@ padding: 5px;
 		padding: 1px;
 	}
 	h1, b1 {
-		font-size: 30px;
+		font-size: 35px;
 	}
 	h2 {
 		font-size: 20px;
@@ -152,7 +152,7 @@ padding: 5px;
 	}
 	/* Noodle */
 	#board {			/* Table side left */
-		font-size: 40px;
+		font-size: 30px;
 		width: auto;
 		border: 5px solid white;
 		flex: 1;
