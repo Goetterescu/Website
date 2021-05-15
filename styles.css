@@ -38,7 +38,7 @@ margin: auto;
 color: white;
 display: table;
 margin: 0 auto;
-width: 110%;
+width: 100%;
 background-color: transparent;
 }
 /* names */
@@ -47,7 +47,6 @@ font-family: "Brush Script MT", cursive;
 font-weight: bold;
 color: white;
 font-size: 40px;
-background-color: transparent;
 border: 10px solid white;
 width: 520px;
 }
@@ -57,10 +56,9 @@ font-family: "Brush Script MT", cursive;
 font-weight: bold;
 color: white;
 font-size: 40px;
-background-color: transparent;
 border: 10px solid white;
 text-align: left;
-width: 80%;
+width: 90%;
 }
 /* Title */
 b1 {
@@ -136,7 +134,7 @@ padding: 5px;
 		padding: 1px;
 	}
 	h1, b1 {
-		font-size: 35px;
+		font-size: 30px;
 	}
 	h2 {
 		font-size: 20px;
