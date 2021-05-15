@@ -39,6 +39,7 @@ color: white;
 display: table;
 margin: 0 auto;
 width: 110%;
+background-color: transparent;
 }
 /* names */
 #board {
@@ -195,6 +196,7 @@ padding: 5px;
 	
 	#board, #board2 {
 		font-size: 30px;
+		width: auto;
 	}
 	#board2 {
 		width: auto;
