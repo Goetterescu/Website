@@ -26,6 +26,32 @@ you can give a side note and similar about the media using h4. In this case it s
 `<br>` can be used if necessary. It is not being used after titles. After a title comes the paragraph and maybe another title. But no break. 
 It can be used to add some distance between a paragraph and an image. But not after a title and a image, or title and a table.
 
+### Traffic violation reports
+Please stick to the following structure.
+```
+<h3 style="text-align:center">Case X</h3>
+<table style="width:30%">
+<tr style="background-color:gray">
+<th>Suspect</th>
+<th>Officer</th>
+<th>Infractions</th>
+<th>Points</th>
+</tr><tr>
+<td>+++</td>
+<td>+++</td>
+<td>+++</td>
+<td>+++</td>
+</tr></table>
+<br><h3>Protocol:</h3>
+<p>+++
+<br><br>- +++ XX/XX/XX</p>
+<br><div style="text-align:center"><h4>Proof</h4>
+<!-- Please insert your proofs below. Do not change the width! -->
+<img width="40%" href="+++">
+</div><hr>
+```
+In this example "+++" are the placeholders for your input and "X" stands for a number. Like the case number or the date of the infraction.
+
 ### Event pages
 This is a different kind of page. It usually contains a long list of articles and should have an index. This will help visitors navigate through the page.
 Here is a quick example on how an event page should be structured. Note: This example is missing a bunch of things, it's supposed to be easy to read and won't function.
