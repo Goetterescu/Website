@@ -34,6 +34,13 @@ flex: 1;
 margin: auto;
 }
 /* Table */
+#ntable {
+color: white;
+display: table;
+margin: 0 auto;
+width: 110%;
+}
+/* names */
 #board {
 font-family: "Brush Script MT", cursive;
 font-weight: bold;
