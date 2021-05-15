@@ -58,7 +58,7 @@ color: white;
 font-size: 40px;
 border: 10px solid white;
 text-align: left;
-width: 90%;
+width: 100%;
 }
 /* Title */
 b1 {
@@ -126,9 +126,9 @@ padding: 5px;
 
 /* For Mobile */
 @media only screen and (max-width: 350px) {
-    .menu {
+    	.menu {
 		width: 85%;
-    }
+    	}
 	.menutable {
 		width: 10%;
 		padding: 1px;
@@ -196,13 +196,10 @@ padding: 5px;
 		font-size: 30px;
 		width: auto;
 	}
-	#board2 {
-		width: auto;
-	}
 	
 	.menu {
 		width: 85%;
-    }
+   	}
 	.menutable {
 		width: 100%;
 		padding: 1px;
