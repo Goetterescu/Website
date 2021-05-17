@@ -3,11 +3,11 @@ background-color: lightblue;
 }
 h1 {
 text-align: center;
-color: red;
+color: white;
 text-decoration: underline;
 font-weight: bold;
 text-shadow: 2px 2px 5px black;
-font-size: 80px;
+font-size: 40px;
 }
 h2 {
 font-weight: bold;
