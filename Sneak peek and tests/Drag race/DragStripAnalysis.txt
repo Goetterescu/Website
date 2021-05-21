@@ -1,0 +1,30 @@
+--------------------------
+|RoR Drag Strip Analysis |
+--------------------------
+
+F1 Test Track Drag Strip
+--------------------------
+This track is somewhat longer than the standard length of a quarter mile, or about 400m.  Noticeably, there is no center boundary line, which has been a quintessential part of drag strips for over 60 years. As such, the lane-crossing rule cannot be strictly enforced like it typically would be. I would recommend the following adjustment: Cars should stay within their general respective lanes and should not cross each other's paths. A car that crosses the outside boundary line of their lane will be disqualified automatically.
+
+This strip does not provide quite the same amount of traction as the old Dragstrip terrain in the archives, so times are slower than what similar cars might produce in real life.  This will be important to keep in mind if the community wants to try out index racing at some point.  It would be necessary to base the index times on data collected from in-game runs, rather than adapting times from the ones used by real-life drag racing associations like the NHRA, IHRA, and others.
+
+Another thing: This strip does not have a lot of shutdown area, that is, space to slow cars down safely. It should generally be fine for slower cars like the ones eligible to compete in the Stock Muscle Car Drags, but faster cars like the Burnside Drag and S10 Drag should be avoided to accomodate the "backup car" rule. Otherwise, no one would make it to the finals :/
+
+
+Flat Map Dirt Strip
+-----------------------
+Contrary to appearance, the friction setting for this strip is asphalt rather than dirt. Nevertheless, this track provides relatively less grip compared to its next-door neighbor, the Runway Strip. Lanes are individually timed, although a typo in the script means that both the left and right lanes will appear on the Races timing page as "Left Lane". (I may submit a quick fix for that sometime.) Also, it should be noted that the track's length is around 550m or about 0.34 mile rather than the standard 400m or 0.25 mile, so times are not close to real-life times.
+
+This strip has physical barriers between the lanes, so lane crossing shouldn't be as difficult to detect; a competitor's car will usually be wrecked on the spot should they make contact with a barrier at high speed. A unique feature of this track is that there is a launch ramp positioned at the exit of the right lane, and a Rig-A-Deal behind that. Given that most cars will exit the lane at high speed, they will typically take flight off the ramp and soar through the air for a few seconds. The ensuing crash back down to earth will total most deformable cars, so that would probably necessitate the use of the "backup car" rather early. To help mitigate this somewhat, I would propose an RP explanation for allowing repairs. It would be something like this:
+
+"Rod's Truck Service has graciously agreed to sponsor our race and is offering free repairs for vehicles wrecked by the right lane jump! There is only one condition: you must be able to drive the vehicle into their shop on its own power. If you are able to do that, Rod's crew will have your car fixed in a jiffy once you stop by their office and let them know you're there."
+
+I think the potential for one's car to be wrecked could be an interesting gimmick and could motivate drivers to try their best for low ET of qualifying and each round. (As was mentioned in the rules, lane choice for the first round is awarded to the higher qualifier in each race; lane choice in subsequent rounds will be given to the driver with the lower ET of the previous round.)
+
+One more idea I had was for an offroad-themed event, with categories like Trophy Truck, Baja Buggy, and Street Off-Road (Offroad car conversions like the Burnside Off-Road, Dodge Magnum 4x4, and Gavril Bandit Off-Road). The ramp might be less of an issue then, although I still think Rod's would be willing to service the cars anyway.
+
+
+Flat Map Runway Strip
+-----------------------
+This strip provides relatively more grip than its "dirt" counterpart.  There are no barriers here, although there is some kind of reference to determine the center line thanks to the runway markings. The lane-crossing rule should be enforced more strictly here, although it could be difficult to tell in some instances because there is no solid middle line like most real-life dragstrips have. It is not quite as long as the dirt strip, and there are no launch ramps ready to send cars into low-Earth orbit :)
+

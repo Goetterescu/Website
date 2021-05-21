@@ -1,0 +1,20 @@
+Planned event structure:
+
+Test/Practice session
+  - Final car choices made before qualifying
+Qualifying Session 1
+  - Official qualifying leaderboard filled out for first session
+Qualifying Session 2
+  - Final qualifying leaderboard (first leaderboard made separate for record-keeping purposes)
+  - Tournament bracket filled out with seeds in qualifying order
+Eliminations Round 1
+  - Eliminations rounds until Final
+Elimination Final Round
+
+
+Notes:
+The test/practice session is optional, would be nice once actual tuning is allowed perhaps sometime in the future.  Drivers should not change their vehicle once it has been qualified in either qualifying session.  I would like to have a few tables made, just so recordkeeping is easy and we have something nice for the event page. I'd like to have: (1) An entry list, with driver names and vehicle names; (2) A Q1 table with driver name, car, and ET, sorted by ET in ascending order; (3) A Q2 table, much like the Q1 table.  I'd also like to have a way to embed the tournament bracket on a webpage so it can be updated without having to manually rewrite anything. I'm thinking of maybe using Challonge to create the bracket, but that's not set in stone by any means.  When eliminations start, I would like to have the winners and ETs of each match recorded, for recordkeeping purposes. I may also try to write a "race report" for the User Content section using that information.  Currently I have no plans for a points system as this is meant to be a one-off event, at least at first.
+
+One more thing I would like to do is invite those who either were eliminated in competition or did not qualify within the top 16 to stick around and spectate the rest of the event.  I don't want them to just leave as soon as they are out of the competition; that's no fun.
+
+All in all, the event shouldn't take more than an hour or two to run from start to end. Hopefully folks will be interested in participating to make it a fun time.

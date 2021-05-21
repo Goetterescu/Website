@@ -1,0 +1,39 @@
+Provisional rules, subject to change:
+
+General drag racing rules
+-----------------------------
+- Cars must be positioned just before the starting line and at a standstill prior to the countdown
+- The race will be started by a 3-second countdown
+- The first to cross the finish line will be declared the winner of the match
+- The competition will be structured as a single-elimination tournament, just as real-life drag races are.
+- Race officials will have the final say, and will be trusted to make decisions in the interest of fun, fair competition based on their good judgement.
+
+
+Competition guidelines
+------------------------
+- If the judge determines that a driver jumped the signal (i.e. their car crossed the starting line before the countdown reached 0), that driver will be automatically disqualified from the competition, and their opponent will take the win.
+- In the event both cars make a foul start, the car perceived by the starting line judge as having moved first will be disqualified.
+- On tracks with a center line, crossing the center line will result in disqualification pending review by the race officials.
+- Race officials have the right to call a re-run if they notice apparent lag on the part of one or both drivers in a match-up. Only one re-run can be ordered per match-up.
+- If one driver is not present for their race within a reasonable amount of time (within 5-10 minutes or so), they will forfeit the race and their opponent will advance on a bye run.
+- A driver that is given a bye run must make a valid solo run, no matter how fast or slow
+- Each driver gets one "backup car" in the case of a wreck or other damage. If the "backup car" is damaged to the point that it can no longer race, the driver will be disqualified from competition.
+- Lane choice for the first round of eliminations goes to the higher qualifier in each match-up; lane choice in subsequent rounds will be given to the driver with the lower ET from the previous round.
+- If there is a question of who won a race, officials should refer to the order of results on the Races timing page. The driver whose time is listed first will be declared the winner.
+
+
+Qualifying guidelines
+-----------------------
+- Qualifying will be run in randomly selected pairs. Failure to qualify, whether by absence or disqualification, will result in being placed at the bottom of the qualifying order.
+- Only the top 16 qualifiers will be placed in the competition bracket.
+- During qualifying, jumping the signal will not count against a driver.
+- Qualifying order will be based on ETs as recorded on the official Races page of the Rigs of Rods website.
+- If multiple drivers fail to qualify, they will be appended to the qualifying table in the order that they ran.
+
+
+Event-specific guidelines
+----------------------------
+- Please use the recommended car set for the event (refer to the list of eligible cars for choices)
+- For this particular event, cars must remain stock, that is, exactly as they were downloaded from the repository or forum.
+- Cars should stay within their general respective lanes and should not cross each other's paths.
+- A car that crosses the outside boundary line of their lane will be disqualified automatically.

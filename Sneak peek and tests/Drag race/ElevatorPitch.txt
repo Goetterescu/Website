@@ -1,0 +1,9 @@
+Ok, so here's the lowdown: Drag race, F1 Test Track, classic muscle cars, running 'em stock. Single-elimination tournament style until we get a winner. Sound like fun?
+
+I've tested, retested, and tested again a set of muscle cars that I think will provide some interesting competition while potentially allowing players in a variety of cars do well.  They run pretty close times, generally somewhere within the 15-17 second range on a solid run.
+
+No staging tree, no worries! We're going to throw it back old school: a 3-2-1-Go! countdown, and a finish line judge to determine the winner.
+
+Why muscle cars, of all things, you might ask? Well, I wanted to cut down on the possibilities so that I can keep things reasonably balanced; also, less cars for participants to search for, download, and install means that there's a better chance everyone will be able to see each other and not have a visual disconnect from the fun.  Plus, these are supposed to be pretty straightforward to control.
+
+Why drag racing? As far as I can tell, there is a pretty significant gap in the simracing market for drag racing sims.  Although Rigs of Rods has numerous limitations (lack of weather model, lack of proper tire simulation, lack of dynamic racing surface, no automatic staging trees, limited number of venues, etc.), it does have one very important asset: ease of access to real vehicle modification and tuning.  Because of the open-source nature of the game and the in-depth documentation available, the player truly has the power in their hands to make all sorts of changes to tune their vehicle how they would like.  A fundamental part of real-life drag racing is the tuning aspect, so that a racer can improve their vehicle, adjust it to their liking, and adapt to different circumstances or requirements.  This could prove to be a strength for RoR over other options.

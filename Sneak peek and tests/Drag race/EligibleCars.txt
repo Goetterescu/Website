@@ -1,0 +1,48 @@
+ ----------------------------
+|Full list of eligible cars: |
+ ----------------------------
+
+Burnside
+-- Coupe
+-- Sedan
+-- Convertible
+-- Wagon
+-- BadWagon
+-- Taxi
+-- Police
+
+Gavril Bandit
+-- 200
+-- 300
+-- 400 GT
+
+Box '69 Camaro
+-- BlackKnight
+-- BlueGrass
+-- RedDragon
+-- Silverback
+-- Silverback FPS
+
+1973 Ford Falcon XB
+-- Coupe
+-- John Goss Special
+-- GT
+-- GT Custom
+-- GT Drag
+
+1966 Ford Mustang Mk1
+
+1966 DI Revair
+-- Coupe
+-- Pickup
+
+DI Banger
+-- 1967 Coupe
+-- 1971 Brambler Package
+-- 1972 Coupe
+
+DI Tracer
+-- 1966 3-Door
+-- 1971 3-Door
+
+1963 Chevy Impala (Coupe)

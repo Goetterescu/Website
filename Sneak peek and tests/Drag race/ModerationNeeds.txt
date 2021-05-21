@@ -1,0 +1,14 @@
+Here's what I need for the event to work well:
+
+- Qualifying leaderboards
+- Single-elimination tournament bracket (considering using Challonge and embedding on a webpage)
+- At least one moderator, but two would be even better. They will need to handle the following tasks:
+  - Announce who will be racing whom for each round
+  - Get cars properly staged on the starting line
+  - Start countdown for each race
+  - Watch finish line to determine winner of each race
+  - Watch for any lane boundary crossing (not really applicable for the F1 Test Track strip)
+  - Record elapsed times from the Races page
+  - Determine if a re-run is warranted due to apparent lag on a driver's part (totally up to the moderator)
+
+If two moderators are available, I would recommend that one mod handle the starting line and countdown, while the other watches from the finish line and determines the winner. For the moderator watching the finish line, a higher vantage point may be desirable. In that case, I would recommend that the moderator use Negative Ice's Genie 1930 Scissor Lift. It is not necessary for the players to install that mod, but it is recommended so the mod's position will be visible for them.
