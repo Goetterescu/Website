@@ -11,7 +11,7 @@
 <li><a href="#cl">Cup Leaderboard</a></li>
 </ul>
 <hr><a name="w1"/>
-<summary class="eventsum"><details><h3>Week one:</h3></details>
+<details class="eventsum"><summary><h3>Week one:</h3></summary>
 <p>The first race of the Championship will take place on the F1 Testtrack. The racetrack itself makes driving 
 on that weekend really easy. Caution should be taken after the last corner. This is the place where new Players will drop and maybe even 
 spawn new vehicles. This situation can summon preventable crashes, but the Moderators can't always stop this from happening.</p>
@@ -22,7 +22,7 @@ spawn new vehicles. This situation can summon preventable crashes, but the Moder
 <!-- Embeded Table -->
 <p w3-include-html="https://raw.githubusercontent.com/Goetterescu/Website/main/Event/F1/q1.html"></p> 
 <script>w3.includeHTML();</script>
-</summary>
+</details>
 <hr><a name="mr"/>
 <h3>Main rules:</h3>
 <!-- Embeded Rules -->
