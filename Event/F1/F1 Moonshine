@@ -11,7 +11,7 @@
 <li><a href="#cl">Cup Leaderboard</a></li>
 </ul>
 <hr><a name="w1"/>
-<h3>Week one:</h3>
+<summary class="eventsum"><details><h3>Week one:</h3></details>
 <p>The first race of the Championship will take place on the F1 Testtrack. The racetrack itself makes driving 
 on that weekend really easy. Caution should be taken after the last corner. This is the place where new Players will drop and maybe even 
 spawn new vehicles. This situation can summon preventable crashes, but the Moderators can't always stop this from happening.</p>
@@ -22,6 +22,7 @@ spawn new vehicles. This situation can summon preventable crashes, but the Moder
 <!-- Embeded Table -->
 <p w3-include-html="https://raw.githubusercontent.com/Goetterescu/Website/main/Event/F1/q1.html"></p> 
 <script>w3.includeHTML();</script>
+</summary>
 <hr><a name="mr"/>
 <h3>Main rules:</h3>
 <!-- Embeded Rules -->
@@ -47,8 +48,8 @@ or my <a href="https://forum.rigsofrods.org/members/trucker-gigi.8943/">Forum ac
 <li>One race with three rounds and a single round race<ul>
 <li>The three round race will be available once for each Driver</li>
 <li>The single round race will be used as many times as requested by the Mods</li></ul></ul>
-<li>The average time of the best round of the three round race plus the best time from the single round races will go into the Leaderboard. 
-<a href="what.txt">Click here if that's confusing you</a></li>
+<li>The average position of the two races will go into the weekly Leaderboard. The same goes for the cup Leaderboard. 
+<a href="what.txt">Click here if that's confusing you</a>.</li>
 <li>The starting signal will be given by the Mods</li>
 <li>The times recorded by the server (which can be found on the RoR-Website) will be used for the Leaderboard</li>
 <li>Each Week will have two racing days: Saturday and Sunday. Both can be used for racing</li>
