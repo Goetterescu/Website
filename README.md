@@ -47,7 +47,7 @@ Please stick to the following structure.
 <br><br>- +++ XX/XX/XX</p>
 <br><div style="text-align:center"><h4>Proof</h4>
 <!-- Please insert your proofs below. You can use the proof class for videos and images -->
-<img class="proof" href="+++">
+<img class="proof" src="+++">
 </div><hr>
 ```
 In this example "+++" are the placeholders for your input and "X" stands for a number. Like the case number or the date of the infraction.
