@@ -40,3 +40,20 @@ Please try to answer to all of the questions, guessing is fine. You will not get
 **= Bonus question which counts 2x. 
 
 ### Other Questions
+1.	What have truckers to do when they enter a police filter?**
+2.	Are police officers allowed to tow trailers and drive unmarked vehicles on duty?
+3.	What is the BTL? 
+4.	What is the speed limit intercity?
+5.	When was the server founded?**
+6.	What are “Points”?
+7.	Name at least one way to break a traffic law without risking a fine and without joining an emergency service.
+8.	To what are Players limited to, when they’re using a trailer? What do they have to know when it comes to trailers? Name three examples which can be found in the BTL or VCG.
+9.	What does the command “-ping” do?
+10.	During which server related update did I remove the profanity filter?**
+11.	Describe how it is possible to contribute to this project (website and game server).
+
+All the questions above are related to the in game server or website, if not otherwise specified.
+Please try to answer to all of the questions, guessing is fine. You will not get a bad score if your answers are wrong. Things like 1/2 points exist.
+**= Bonus question which counts 2x.
+
+
