@@ -1,0 +1,106 @@
+<html lang="en">
+<head>
+<title>&diams;Roleplaying&diams;</title>
+<link rel="icon" href="Brimstone.ico"></link>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- For mobile users layout -->
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link rel="stylesheet" href="data\styles.css">
+<!-- Hotjar Tracking Code for www.gigi-server.netlify.app -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:2354224,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+</head>
+
+
+
+<!-- Javascript linkage -->
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<body>
+<!-- Embeded T and M -->
+<p w3-include-html="https://raw.githubusercontent.com/Goetterescu/Website/main/Codes/Title%20and%20menu.html"></p> 
+<script>w3.includeHTML();</script>
+<!-- Main -->
+<div class="Auftl">
+<h2>Points</h2>
+<p>Here you can report traffic violations and look up the current amount of points given for infractions. Please don't abuse the form 
+and only use it if you know what you're doing. Reports will be handled by the Moderators. 
+Read the <a href="Guidelines.html#po">Roleplaying page</a> if you're not sure about something. 
+Also here is an <a href="data/help.png">example</a>.</p>
+<hr>
+<h3>Active Violations:</h3>
+<p>Points for violations will be set to zero at the end of each month. 
+Visit <a href="recent points.html#enter">this page</a> to see 
+every executed report.</p>
+<!-- Embeded Record -->
+<p w3-include-html="https://raw.githubusercontent.com/Goetterescu/Website/main/Codes/P%20rec.html"></p> 
+<script>w3.includeHTML();</script>
+<hr>
+<h3>Form:</h3>
+<form name="Points" method="POST" data-netlify="true">
+  <p>
+    <label>Officer: <input type="text" name="cop" required/></label>   
+  </p>
+  <p>
+    <label>Suspect: <input type="text" name="suspect" required/></label>
+  </p>
+  <p>
+    <label>Report text: <textarea name="report" rows="5" cols="100" maxlength="500" required></textarea></label>
+  </p>
+    <p>
+    <label>Requested points: <input type="number" name="points" min="1" max="10" required></textarea></label>
+  </p>
+  <p>
+    <label>Violations: <textarea name="violations" rows="1" cols="50" maxlength="50" required></textarea></label>
+  </p>
+  <p>
+    <label>Definition*: <textarea name="define" rows="2" cols="50" maxlength="100"></textarea></label>
+  </p>  
+  <p>
+    <label>Proof: <input type="file" name="p1" required/></label>
+  </p>  
+  <div style="text-align:center">
+  <p>* = Use this field to define the way a certain rule has been broken.<br>
+  Please use a compressed archive (rar or zip) if you want to upload more than one file.</p>
+    <button type="submit">Send</button>
+  </p></div>
+</form>
+<hr>
+<h3>For civilians:</h3>
+<form name="Points civil" method="POST" data-netlify="true">
+  <p>
+    <label>Your nickname: <input type="text" name="reporter" required/></label>   
+  </p>
+  <p>
+    <label>Suspect: <input type="text" name="suspect" required/></label>
+  </p>
+  <p>
+    <label>Report text: <textarea name="report" rows="5" cols="100" maxlength="500" required></textarea></label>
+  </p>
+  <p>
+    <label>Broken rule(s): <textarea name="violations" rows="1" cols="50" maxlength="50"></textarea></label>
+  </p> 
+  <p>
+    <label>Proof: <input type="file" name="p1" required/></label>
+  </p>  
+  <div style="text-align:center">
+  <p>* = Use this field to define the way a certain rule has been broken.<br>
+  Please use a compressed archive (rar or zip) if you want to upload more than one file.</p>
+    <button type="submit">Send</button>
+  </p></div>
+</form>
+</div>
+<!-- Embeded End -->
+<p w3-include-html="https://raw.githubusercontent.com/Goetterescu/Website/main/Codes/Signature.html"></p> 
+<script>w3.includeHTML();</script>
+</body>
+</html>
+
+
+<!-- This is a ready-to-edit-site -->
