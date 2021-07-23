@@ -3,11 +3,11 @@ background-color: lightblue;
 }
 h1 {
 text-align: center;
-color: white;
+color: red;
 text-decoration: underline;
 font-weight: bold;
 text-shadow: 2px 2px 5px black;
-font-size: 40px;
+font-size: 80px;
 }
 h2 {
 font-weight: bold;
@@ -72,7 +72,7 @@ display: block;
 /* END */
 
 
-p, li {
+p, li, summary {
 font-weight: bold;
 font-size: 25px;
 }
@@ -123,6 +123,36 @@ border: 5px solid black;
 padding: 5px;
 }
 
+details {
+background-color: grey;
+outline: 2px solid red;
+}
+
+.proof {
+width: 45%;
+text-align: center;
+display: block;
+margin: auto;
+}
+
+.thanks {
+vertical-align: middle; 
+width: 5%;
+}
+
+.eventsum {
+background-color: transparent;
+outline: unset; /* Does this work? */
+}
+.eventsum-st {
+font-weight: bold;
+color: red;
+font-size: 30px;
+}
+
+.badge {
+height: 90px;
+}
 
 /* For Mobile */
 @media only screen and (max-width: 350px) {
@@ -143,7 +173,11 @@ padding: 5px;
 		font-size: 13px;
 		padding: 1px;
 	}
-	p, li, td {
+	.eventsum-st {
+		font-size: 13px;
+		padding: 1px;
+	}
+	p, li, td, summary {
 		font-size: 10px;
 		padding: 1px;
 	}
@@ -153,20 +187,28 @@ padding: 5px;
 	/* Noodle */
 	#board {			/* Table side left */
 		font-size: 30px;
-		width: auto;
 		border: 5px solid white;
 		flex: 1;
 		margin: auto;
 	}
 	#board2 {			/* Table right side */
 		font-size: 40px;
-		width: auto;
+		width: 100%;
 		border: 5px solid white;
 	}
 	.Board {
 		padding: 1px;
 		border: 5px solid #3B170B;
 	}
+	
+	.thanks {
+		width: 10%
+	}
+	
+	.badge {
+	height: 40px;
+	}
+
 }
 
 /* For larger Mobiles */
@@ -185,10 +227,13 @@ padding: 5px;
 	h3 {
 		font-size: 33px;
 	}
+	.eventsum-st {
+		font-size: 33px;
+	}
 	b1 {
 		font-size: 60px;
 	}
-	p, th, td {
+	p, th, td, li, summary {
 		font-size: 15px;
 		padding: 1px;
 	}
@@ -207,6 +252,18 @@ padding: 5px;
 		width: 100%;
 		padding: 1px;
 	}
+	table, menutable, th, td {
+		border: 1px solid blacK;
+	}
+	
+	.thanks {
+		width: 10%;
+	}
+	
+	.badge {
+	height: 70px;
+	}
+}
 
 /* For Tablets */
 @media only screen and (min-width: 540px) and (max-width: 780px) {
