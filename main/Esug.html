@@ -1,0 +1,59 @@
+<html lang="en">
+<head>
+<title>&diams;Events&diams;</title>
+<link rel="icon" href="Brimstone.ico"></link>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- For mobile users layout -->
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link rel="stylesheet" href="..\styles.css">
+</head>
+
+
+<!-- Javascript linkage -->
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<body>
+<!-- Embeded T and M -->
+<div w3-include-html="/Codes/Title%20and%20menu.html"></div> 
+<script>w3.includeHTML();</script>
+<!-- Main -->
+<div class="Auftl">
+<h2>Suggest an Event</h2>
+<p>Events can be suggested here. Please use this <a href="https://textuploader.com/ts1xy/raw">guide</a> to prevent faulty uploads. Thanks!</p><hr>
+<h3>Form:</h3>
+
+<form name="Event" method="POST" data-netlify="true">
+  <p>
+    <label>Username: <input type="text" name="username" rows="1" maxlength="20" required /></label>
+    <br><br>	
+    <label>Email: <input type="email" name="email" maxlength="30" required /></label>
+	<br><br>
+    <label>Date of the Event: <input type="date" name="date" required/></label>
+	<br><br>
+    <label>Amount of suggested Players:</label><input type="number" name="players" min="1" max="8">
+	<br><br>
+    <label>Type of Event: <textarea name="type" placeholder="race" rows="1" maxlength="20"></textarea></label>
+	<br><br>
+	<label>Details: <textarea name="message" rows="5" cols="100" maxlength="2000" required placeholder="Detailed info about the Event"></textarea></label>
+	<br><br>
+	<label>Rules: <textarea name="rules" rows="20" cols="100" maxlength="500" required placeholder="§1 No ramming..."></textarea></label>
+	<br><br>
+	<label>More information: <textarea name="message2"></textarea></label>
+	<br><br>
+	<label>Additional files: <input type="file" name="files"/></label>
+	<br><br>
+    <button type="submit">Send</button>
+  </p><p>Please use a compressed archive (rar or zip) if you want to upload more than one file.</p>
+</form>
+
+<hr><h3>Current suggestions:</h3><p>
+These suggestions are currently under observation. They may or may not be used at some point. Please be patient, every cancelled or approved 
+Event will be marked here.</p>
+<embed src="https://textuploader.com/ts1mf/raw" style="width:10000px">
+</div>
+<!-- Embeded End -->
+<p w3-include-html="/Codes/Signature.html"></p> 
+<script>w3.includeHTML();</script>
+</body>
+</html>
+
+
+<!-- This is a ready-to-edit-site -->
