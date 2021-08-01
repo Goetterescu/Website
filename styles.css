@@ -155,6 +155,22 @@ font-size: 30px;
 height: 90px;
 }
 
+/* Those are for the weekly telegraph */
+newshead {
+font-size: 15px;
+font-family: Courier New;
+font-weight: bold;
+text-decoration: underline;
+text-align: center;
+display: block;
+}
+np {
+font-size: 12px;
+font-family: Courier New;
+font-weight: bold;
+display: block;
+}
+
 /* For Mobile */
 @media only screen and (max-width: 350px) {
     	.menu {
