@@ -157,7 +157,7 @@ height: 90px;
 
 /* Those are for the weekly telegraph */
 newshead {
-font-size: 15px;
+font-size: 30px;
 font-family: Courier New;
 font-weight: bold;
 text-decoration: underline;
@@ -165,7 +165,7 @@ text-align: center;
 display: block;
 }
 np {
-font-size: 12px;
+font-size: 20px;
 font-family: Courier New;
 font-weight: bold;
 display: block;
@@ -225,7 +225,13 @@ display: block;
 	.badge {
 	height: 40px;
 	}
-
+	
+	newshead {
+	font-size: 20px;
+	}
+	np {
+	font-size: 12px;
+	}
 }
 
 /* For larger Mobiles */
@@ -280,10 +286,16 @@ display: block;
 	.badge {
 	height: 70px;
 	}
+	
+	newshead {
+	font-size: 20px;
+	}
+	np {
+	font-size: 17px;
+	}
 }
 
 /* For Tablets */
 @media only screen and (min-width: 540px) and (max-width: 780px) {
-    .menu {
-    }
+	
 }
