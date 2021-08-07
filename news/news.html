@@ -6,7 +6,26 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <link rel="stylesheet" href="../styles.css">
 </head>
+<style>
+.compact {
+	display: grid;
+	grid-gap: 3px;
+	grid-template-columns: 50% 50%;
+}
+.compact > div {
+	border: 3px solid black;
+	padding: 3px;
+}
 
+
+
+.item4 {
+grid-row: 2;
+grid-column-start:1;
+grid-column-end:3;
+}
+
+</style>
 
 
 <!-- Javascript linkage -->
@@ -18,13 +37,48 @@
 <!-- Main -->
 
 <div class="Auftl">
-<h2>News</h2>
-<ul>
-  <li>RamCharger retired from his position. Thank you for everything</li>
-  <li>We are working on the Website</li>
-</ul>
-<h3 style="text-align:center">
-Stay tuned!</h3>
+<h2 class="center" style="font-family: Courier New">The Weekly Telegraph</h2>
+<!-- The articles are below. Please remember to copy them to the Editions subfolder. We want to preserve them -->
+
+<div class="compact" style="border: transparent">
+<!-- Articles are below -->
+<div class="item1">
+<newshead>An new Update for the News section</newshead>
+<br><np>The News page looks different, doesn't it? Well, we did some changes. The old News section will be no more. You will now find a virtual 
+Newspaper instead. This is it - the "Weekly Telegraph". You can inform yourself about this Newspaper on its own page and read the news on 
+this one. Feel free to look around and contribute. It is very easy to get your own article uploaded. Just visit the info page of the Weekly 
+Telegraph and learn how to contribute.<br>-Trucker_Gigi
+</np>
+</div>
+<div class="item2">
+<newshead>The Paparazzi of this Week</newshead>
+<br><np>Our active Player and Moderator Maniek has earned himself the Report-Badge by posting a lot of Screenshots. Congratulations!</np>
+</div>
+<div class="item3">
+<newshead>Events</newshead>
+<br><np>The Staff is currently working on the Community Event and the Moonshine Cup. Please visit the Event page for more details related to 
+the Moonshine Cup. The Community Event will be planned and scripted using user preferences and suggestions from our Discord server. It might 
+take one or two weeks to complete the script. So stay tuned!</np>
+</div>
+<div class="item4">
+<newshead>More and more - when will it stop?</newshead>
+<br>
+<img class="center" src="Editions\S1\E1\crash.png" style="width:50%"><img class="center" src="Editions\S1\E1\crash2.png" style="width:50%"><br>
+<np>Starling Island is a place of "Terror and Grief". Most civilians have already left the city or even the island. The people of Starling 
+Island are not happy with the infrastructure and the traffic. The local hospital is fairly big, but it does not have a trauma station. The 
+emergency room is often forced to call for an helicopter to transport the victims of, what we call here, every-day-life to the university 
+hospital many miles away. It is not safe on our island... <br>Are you considering leaving this place, too?</np>
+</div>
+<div class="item5">
+<newshead>Looking for a new job?</newshead>
+<br><np><i>You want to be a free man? Want to drive a truck? Want to help others?</i> That's good, because we are looking for you!<br>
+We are currently hiring new ambulance drivers and paramedics. Paramedics are working on a "free schedule", which means that they are not bond 
+to a time plan. You can work whenever you want to. You will even get paid by the hour. Visit our hospital and jump in your very own car! 
+Just use the -acmedic command and off you go. You will earn 30 Gigis per hour and the respect of a whole nation. Try it, it's worth it!</np>
+</div>
+
+</div>
+
 </div>
 <!-- Embeded End -->
 <p w3-include-html="/Codes/Signature.html"></p> 
