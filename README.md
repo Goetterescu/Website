@@ -1,8 +1,8 @@
 # READ ME!
 
-## Here are the HTML and CSS containers, beside some other files. These files are being hosted on the Website.
+## Here are the files of Website.
 
-The Website will contain links to codes on this page. This makes the Website more flexible and easier to maintain. Sudden changes of Rules and such will be simple to achive.
+We are working together via Github on our site. This makes the Website more flexible and easier to maintain. Sudden changes of Rules and such will be simple to achive.
 You can find some general information and a guide in here. 
 Our Discord server is a good source, if you want to stay up to date. You can find updates related to the game server and the website in there.
 
@@ -52,6 +52,16 @@ Please stick to the following structure.
 ```
 In this example "+++" are the placeholders for your input and "X" stands for a number. Like the case number or the date of the infraction.
 
+### News paper articles
+Please mind using this format for submissions:
+```
+<div class="itemX">
+<newshead></newshead>
+<br>
+<np></np>
+</div>
+```
+
 ### Event pages
 This is a different kind of page. It usually contains a long list of articles and should have an index. This will help visitors navigate through the page.
 Here is a quick example on how an event page should be structured. Note: This example is missing a bunch of things, it's supposed to be easy to read and won't function.
@@ -87,19 +97,3 @@ It also contains the articles which are necessary for every event.
     
     Here comes the rest of the page.
  ```
-    
-### There will be more
-I just started creating this guide. Stay tuned for more!
-
-
-
-# Here is some stuff that I want to achieve with my Community
-
-### Staff-Event
-This is supposed to be done by my Staff. I want them to work on an Event by themselves.
-- [ ] Discuss an Event with the Community
-- [ ] Plan and script an Event
-- [ ] Code the Page
-- [ ] Check it using the formation guide on Github
-- [ ] Get it checked by the Project Leader
-
