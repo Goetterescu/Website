@@ -1,0 +1,11 @@
+{
+  "name": "Virtual Bank",
+  "version": "0.1",
+  "description": "Test bank",
+  "main": "bot.js",
+  "author": "Daniel G�tter",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.3.3"
+  }
+}
