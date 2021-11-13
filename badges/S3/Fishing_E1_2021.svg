@@ -1,0 +1,10 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#A0D58A" stroke-width="10" id="svg_1" d="m233.56244,300.00001l31.78674,-95.59397l83.2183,-59.08103l102.86506,0l83.21881,59.08103l31.78621,95.59397l-31.78621,95.59397l-83.21881,59.08102l-102.86506,0l-83.2183,-59.08102l-31.78674,-95.59397z" fill="#849854"/>
+  <text transform="matrix(1 0 0 1 0 0)" stroke="#000000" font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="30" id="svg_6" y="300" x="268.57813" stroke-width="3" fill="#000000">Fishing Competition</text>
+  <text stroke="#000000" font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="30" id="svg_8" y="339.5" x="348.74219" stroke-width="3" fill="#000000">E1 2021</text>
+  <text stroke="#000000" font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="30" id="svg_9" y="379" x="351.10156" stroke-width="3" fill="#000000">Winner</text>
+ </g>
+</svg>
