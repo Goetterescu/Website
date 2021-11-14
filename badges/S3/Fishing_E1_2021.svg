@@ -1,10 +1,84 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-
- <g>
-  <title>Layer 1</title>
-  <path stroke="#A0D58A" stroke-width="10" id="svg_1" d="m233.56244,300.00001l31.78674,-95.59397l83.2183,-59.08103l102.86506,0l83.21881,59.08103l31.78621,95.59397l-31.78621,95.59397l-83.21881,59.08102l-102.86506,0l-83.2183,-59.08102l-31.78674,-95.59397z" fill="#849854"/>
-  <text transform="matrix(1 0 0 1 0 0)" stroke="#000000" font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="30" id="svg_6" y="300" x="268.57813" stroke-width="3" fill="#000000">Fishing Competition</text>
-  <text stroke="#000000" font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="30" id="svg_8" y="339.5" x="348.74219" stroke-width="3" fill="#000000">E1 2021</text>
-  <text stroke="#000000" font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="30" id="svg_9" y="379" x="351.10156" stroke-width="3" fill="#000000">Winner</text>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="Fishing_E1_2021.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.78666667"
+     inkscape:cx="392.72364"
+     inkscape:cy="160.9289"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     style="fill:#849854;stroke:#a0d58a;stroke-width:18.60471344"
+     inkscape:connector-curvature="0"
+     d="M 90.347698,300.00002 149.48603,122.15017 304.31128,12.231607 H 495.68877 L 650.51499,122.15017 709.65232,300.00002 650.51499,477.84985 495.68877,587.76839 H 304.31128 L 149.48603,477.84985 Z"
+     id="svg_1" />
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.91637421px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:3.07489419"
+     x="409.80887"
+     y="262.56119"
+     id="svg_6"
+     font-size="30"
+     xml:space="preserve"
+     font-weight="bold"
+     font-style="normal"
+     transform="scale(0.9753828,1.0252385)">Fishing Competition</text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.42645645px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:3.67156029"
+     x="491.46841"
+     y="274.31335"
+     id="svg_8"
+     font-size="30"
+     xml:space="preserve"
+     font-weight="bold"
+     font-style="normal"
+     transform="scale(0.81304414,1.2299455)">E1 2021</text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.19147873px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:3.61257124"
+     x="483.45703"
+     y="328.42569"
+     id="svg_9"
+     font-size="30"
+     xml:space="preserve"
+     font-weight="bold"
+     font-style="normal"
+     transform="scale(0.8263602,1.210126)">Winner</text>
 </svg>
